@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jon
-- 👀 I’m interested in anything with computers and coding. I am profiecient in Frontend development at the moment. HTML, CSS, JS, React etc. Also begining to explore back-end dev.
-- 💞️ I’m looking to collaborate on: some cool web apps
+- 👀 I’m interested in anything with cyber security, networkign and computers. 
+- 💞️ I’m looking to collaborate on: some cool tools for red team engagment
 - 📫 How to reach me: jthickson13@gmail.com
 
 <!---
